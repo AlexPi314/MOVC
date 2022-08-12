@@ -12,7 +12,7 @@ const app: express = express();
 const server: http.Server = http.createServer(app);
 
 const i18n: I18n = new I18n({
-  locales: ["en", "ru", "it", "du", "ch"],
+  locales: ["en", "ru", "it", "du", "ch", "pl"],
   directory: rootPlusPath("locales"),
   cookie: "lang",
 });
