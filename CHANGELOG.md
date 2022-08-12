@@ -1,3 +1,10 @@
+## [2.10.4](https://github.com/ERTH2/MOVC/compare/v2.10.3...v2.10.4) (2022-08-12)
+
+
+### Bug Fixes
+
+* locales ([b928a1e](https://github.com/ERTH2/MOVC/commit/b928a1e928446e73b70ec8d8de705e0292f97077))
+
 ## [2.10.3](https://github.com/ERTH2/MOVC/compare/v2.10.2...v2.10.3) (2022-07-22)
 
 
