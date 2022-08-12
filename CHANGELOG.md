@@ -1,3 +1,10 @@
+# [2.11.0](https://github.com/ERTH2/MOVC/compare/v2.10.4...v2.11.0) (2022-08-12)
+
+
+### Features
+
+* added Polish language ([3b9fa0a](https://github.com/ERTH2/MOVC/commit/3b9fa0a9a1a847afb45f8a7ebd39ad041ffdfca3))
+
 ## [2.10.4](https://github.com/ERTH2/MOVC/compare/v2.10.3...v2.10.4) (2022-08-12)
 
 
